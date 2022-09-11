@@ -1,1 +1,5 @@
-## plugin
+# Content
+
+- [Plugin][#plugin]
+
+[#plugin]: #Plugin
