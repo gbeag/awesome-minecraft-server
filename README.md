@@ -1,5 +1,9 @@
 # Content
 
-- [Plugin][#plugin]
+- [Content](#content)
+- [Plugin](#plugin)
 
-[#plugin]: #Plugin
+# Plugin
+
+- [EssentialsX](https://www.spigotmc.org/resources/essentialsx.9089/)
+-
