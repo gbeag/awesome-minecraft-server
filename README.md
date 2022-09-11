@@ -22,4 +22,4 @@
 
 # Other
 
-[Minecraft-optimization](https://github.com/YouHaveTrouble/minecraft-optimization) Minecraft server optimization guide
+- [Minecraft-optimization](https://github.com/YouHaveTrouble/minecraft-optimization) Minecraft server optimization guide
